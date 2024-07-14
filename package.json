@@ -1,0 +1,19 @@
+{
+  "name": "javascript-e-typescript---front-end-e-back-end-full-stack-",
+  "version": "1.0.0",
+  "description": "Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns",
+  "main": "index.js",
+  "scripts": {
+     "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Célio Fermano",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Javascript-e-TypeScript---front-end-e-back-end-Full-Stack-"
+  },
+  "keywords": [
+    "Java"
+  ]
+}
